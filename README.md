@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="left" style={display: flex, row-gap: 20px}> 
 <!--   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>  -->
@@ -91,7 +91,7 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
-</p>
+</div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoopraju31&show_icons=true&locale=en&layout=compact" alt="anoopraju31" /></p> -->
 
