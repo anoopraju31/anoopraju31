@@ -92,8 +92,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
 </div>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoopraju31&show_icons=true&locale=en&layout=compact" alt="anoopraju31" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoopraju31&show_icons=true&locale=en&layout=compact" alt="anoopraju31" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoopraju31&show_icons=true&locale=en" alt="anoopraju31" /></p> -->
 
