@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopraju31&label=Profile%20views&color=0e75b6&style=flat" alt="anoopraju31" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopraju31" alt="anoopraju31" /></a> </p> -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopraju31" alt="anoopraju31" /></a> </p
 
 - 🔭 I’m currently working on [Frontend practice projects](https://github.com/anoopraju31/frontend-practices-projects)
 
