@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anoop Raju</h1>
+<h1 align="center">Hi👋, I'm Anoop Raju</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-🔭 I’m currently working on [EstatePulse - Real Estate App](https://github.com/anoopraju31/estate-pulse-mern)<br>🌱 I’m currently learning **React, Next.js, MERN Stack, React Native ** <br>💬 Ask me about **React.js<br>📫 How to reach me **anoop2019@iiitkottayam.ac.in**
+🔭 I’m currently working on [EstatePulse - Real Estate App](https://github.com/anoopraju31/estate-pulse-mern).
+<br>
+🌱 I’m currently learning <strong>React, Next.js, MERN Stack, React Native</strong>.
+<br>
+💬 Ask me about <strong>React.js </strong>. <br>📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
 
 
 ## 🌐 Socials:
