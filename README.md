@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Anoop Raju</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-🔭 I’m currently working on [Portfolio](https://github.com/anoopraju31/anoop-raju-portfolio).
+🔭 I’m currently pursuing [100xdevs Cohort]([https://github.com/anoopraju31/](https://github.com/anoopraju31/0-100_cohort).
 <br>
 🌱 I’m currently learning <strong>React, Next.js, MERN Stack, React Native</strong>.
 <br>
