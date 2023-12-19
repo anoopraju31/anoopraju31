@@ -3,7 +3,7 @@
 
 🔭 I’m currently pursuing [100xdevs Cohort](https://github.com/anoopraju31/0-100_cohort).
 <br>
-🌱 I’m currently learning <strong>React, Next.js, MERN Stack, React Native and Typescript.</strong>.
+🌱 I’m currently learning <strong>React, Next.js, MERN Stack, React Native and Typescript</strong>.
 <br>
 💬 Ask me about <strong>React.js </strong>. <br>📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
 
