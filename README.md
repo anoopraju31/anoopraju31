@@ -8,7 +8,6 @@
 🧑🏻‍💻 I'm currently working at [Infigon Futures](https://infigonfutures.com)
 💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>. <br>📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
 <br>
-
 😎 Checkout my portfolio [anoopraju.xyz](https://www.anoopraju.xyz). 
 
 
