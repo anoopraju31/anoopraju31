@@ -2,11 +2,14 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 🔭 I’m currently pursuing [100xdevs Cohort](https://github.com/anoopraju31/0-100_cohort).
-<br>
+<br> 
 🌱 I’m currently learning <strong>Nest.js</strong>.
 <br>
 🧑🏻‍💻 I'm currently working at [Infigon Futures](https://infigonfutures.com)
-💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>. <br>📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
+<br>
+💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>. 
+<br>
+📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
 <br>
 😎 Checkout my portfolio [anoopraju.xyz](https://www.anoopraju.xyz). 
 
