@@ -4,11 +4,11 @@
 🔭 I’m currently pursuing [100xdevs Cohort](https://github.com/anoopraju31/0-100_cohort).
 <br>
 -->
-🌱 I’m currently learning <strong>Nest.js</strong>.
-<br>
 🧑🏻‍💻 I'm currently working at [Infigon Futures](https://infigonfutures.com)
 <br>
 💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>. 
+<br>
+🌱 I’m currently learning <strong>Nest.js</strong>.
 <br>
 📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
 <br>
