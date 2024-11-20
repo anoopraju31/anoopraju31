@@ -4,7 +4,8 @@
 🔭 I’m currently pursuing [100xdevs Cohort](https://github.com/anoopraju31/0-100_cohort).
 <br>
 -->
-🧑🏻‍💻 I'm currently working at [Infigon Futures](https://infigonfutures.com)
+
+🧑🏻‍💻 I'm currently working at [Infigon Futures](https://infigonfutures.com/).
 <br>
 💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>. 
 <br>
