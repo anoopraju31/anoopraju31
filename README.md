@@ -13,7 +13,7 @@
 <br>
 📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
 <br>
-😎 Checkout my portfolio [anoopraju.xyz](https://www.anoopraju.xyz){:target="_blank"}.
+😎 Checkout my portfolio <a href="https://www.anoopraju.xyz" target="_blank">anoopraju.xyz</a>.
 
 
 ## 🌐 Socials:
