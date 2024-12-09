@@ -5,13 +5,13 @@
 <br>
 -->
 
-🧑🏻‍💻 I'm currently working at [Infigon Futures](https://infigonfutures.com/).
+🧑🏻‍💻 I'm currently working at <a href="https://infigonfutures.com/" target="_blank">Infigon Futures</a>.
 <br>
 💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>. 
 <br>
 🌱 I’m currently learning <strong>Nest.js</strong>.
 <br>
-📫 How to reach me **anoop2019@iiitkottayam.ac.in**.
+📫 How to reach me <a href="mailto:anoop2019@iiitkottayam.ac.in">anoop2019@iiitkottayam.ac.in</a>.
 <br>
 😎 Checkout my portfolio <a href="https://www.anoopraju.xyz" target="_blank">anoopraju.xyz</a>.
 
