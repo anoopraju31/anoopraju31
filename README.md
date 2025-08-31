@@ -1,8 +1,11 @@
 <h1 align="center">Hi👋, I'm Anoop Raju</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 🧑🏻‍💻 I'm currently working at <a href="https://infigonfutures.com/" target="_blank">Infigon Futures</a>.
+<br/>
 💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>.
+<br/>
 📫 How to reach me <a href="mailto:anoop2019@iiitkottayam.ac.in">anoop2019@iiitkottayam.ac.in</a>.
+<br/>
 😎 Checkout my portfolio <a href="https://www.anoopraju.xyz" target="_blank">anoopraju.xyz</a>.
 
 ## 🌐 Socials:
