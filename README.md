@@ -3,7 +3,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
 🧑🏻‍💻 I'm currently working at <a href="https://infigonfutures.com/" target="_blank">Infigon Futures</a>.
-
 <br/>
 💬 Ask me about <strong>React.js, Next.js TypeScript, MERN Stack </strong>.
 <br/>
