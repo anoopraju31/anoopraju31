@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋, I'm Anoop Raju</h1>
+
 <br/>
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
