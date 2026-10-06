@@ -31,7 +31,7 @@
     <a href="https://instagram.com/_a.n.o.o.p_r.a.j.u_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.anoopraju.xyz" target="_blank">
+    <a href="https://anoop-raju-portfolio.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
     </a>
   </p>
