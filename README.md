@@ -13,7 +13,7 @@
       <img src="https://komarev.com/ghpvc/?username=anoopraju31&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Location-India%20🇮🇳-007ACC?style=flat-square" alt="Location" />
-    <a href="mailto:anoop2019@iiitkottayam.ac.in">
+    <a href="mailto:anoopraju31@gmail.com">
       <img src="https://img.shields.io/badge/Email-anoop2019%40iiitkottayam.ac.in-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.anoopraju.xyz" target="_blank">
@@ -31,7 +31,7 @@
     <a href="https://instagram.com/_a.n.o.o.p_r.a.j.u_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://anoop-raju-portfolio.vercel.app" target="_blank">
+    <a href="https://anoopraju.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
     </a>
   </p>
@@ -46,7 +46,7 @@
 - 🎓 **Education:** Alumnus of [**IIIT Kottayam**](https://www.iiitkottayam.ac.in/) (Indian Institute of Information Technology, Kottayam)
 - 🌐 **Portfolio:** Check out my work and projects at [**anoopraju.xyz**](https://www.anoopraju.xyz)
 - 💬 **Ask me about:** React.js, Next.js, TypeScript, MERN Stack, State Management & Web Architecture
-- 📫 **Reach out:** Feel free to connect via [`anoop2019@iiitkottayam.ac.in`](mailto:anoop2019@iiitkottayam.ac.in)
+- 📫 **Reach out:** Feel free to connect via [`anoopraju31@gmail.com`](mailto:anoopraju31@gmail.com)
 - ⚡ **Fun Fact:** I love turning complex ideas into clean, snappy, and responsive digital experiences!
 
 ---
