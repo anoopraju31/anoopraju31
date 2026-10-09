@@ -111,15 +111,9 @@
 ---
 
 ### 📊 GitHub Activity & Statistics
-
-<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anoopraju31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=anoopraju31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anoop's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopraju31&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anoopraju31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
