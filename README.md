@@ -14,7 +14,7 @@
     </a>
     <img src="https://img.shields.io/badge/Location-India%20🇮🇳-007ACC?style=flat-square" alt="Location" />
     <a href="mailto:anoopraju31@gmail.com">
-      <img src="https://img.shields.io/badge/Email-anoop2019%40iiitkottayam.ac.in-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-anoopraju31%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.anoopraju.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-anoopraju.xyz-blueviolet?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://anoopraju.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=anoopraju.xyz&logoColor=white" alt="Website" />
     </a>
   </p>
 
