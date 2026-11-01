@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey there, I'm <a href="https://www.anoopraju.xyz">Anoop Raju</a> <img src="https://raw.githubusercontent.com/anoopraju31/assets/wave.gif" width="30px"></h1>
+  <h1>Hey there, I'm <a href="https://www.anoopraju.xyz">Anoop Raju</a> <img src="https://raw.githubusercontent.com/anoopraju31/anoopraju31/refs/heads/main/assets/wave.gif" width="30px"></h1>
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React+%26+Next.js+Specialist;TypeScript+%26+MERN+Stack;Crafting+Modern+Scalable+Web+Apps" alt="Typing SVG" />
