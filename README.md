@@ -86,6 +86,7 @@
 ![Recharts](https://img.shields.io/badge/Recharts-%2322B5BF.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![React Quill](https://img.shields.io/badge/React_Quill-%231e293b.svg?style=for-the-badge&logo=quill&logoColor=white)
+![React PDF](https://img.shields.io/badge/React_PDF-%23EC1C24.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Icons](https://img.shields.io/badge/React_Icons-%23E91E63.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
