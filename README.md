@@ -1,12 +1,12 @@
 <div align="center">
 
-  <h1>Hey there, I'm <a href="https://www.anoopraju.xyz">Anoop Raju</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hey there, I'm <a href="https://www.anoopraju.xyz">Anoop Raju</a> <img src="https://raw.githubusercontent.com/anoopraju31/assets/wave.gif" width="30px"></h1>
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;React+%26+Next.js+Specialist;TypeScript+%26+MERN+Stack;Crafting+Modern+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=anoopraju31&color=blueviolet&style=flat-square&label=Profile+Views">
@@ -111,6 +111,7 @@
 ---
 
 ### 📊 GitHub Activity & Statistics
+
   <img src="https://streak-stats.demolab.com/?user=anoopraju31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=anoopraju31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anoop's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopraju31&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
