@@ -13,8 +13,8 @@
       <img src="https://komarev.com/ghpvc/?username=anoopraju31&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Location-India%20🇮🇳-007ACC?style=flat-square" alt="Location" />
-    <a href="mailto:anoop2019@iiitkottayam.ac.in">
-      <img src="https://img.shields.io/badge/Email-anoop2019%40iiitkottayam.ac.in-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:anoopraju31@gmail.com">
+      <img src="https://img.shields.io/badge/Email-anoopraju31%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.anoopraju.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-anoopraju.xyz-blueviolet?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
@@ -31,8 +31,8 @@
     <a href="https://instagram.com/_a.n.o.o.p_r.a.j.u_/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.anoopraju.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    <a href="https://anoopraju.xyz" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=anoopraju.xyz&logoColor=white" alt="Website" />
     </a>
   </p>
 
@@ -46,7 +46,7 @@
 - 🎓 **Education:** Alumnus of [**IIIT Kottayam**](https://www.iiitkottayam.ac.in/) (Indian Institute of Information Technology, Kottayam)
 - 🌐 **Portfolio:** Check out my work and projects at [**anoopraju.xyz**](https://www.anoopraju.xyz)
 - 💬 **Ask me about:** React.js, Next.js, TypeScript, MERN Stack, State Management & Web Architecture
-- 📫 **Reach out:** Feel free to connect via [`anoop2019@iiitkottayam.ac.in`](mailto:anoop2019@iiitkottayam.ac.in)
+- 📫 **Reach out:** Feel free to connect via [`anoopraju31@gmail.com`](mailto:anoopraju31@gmail.com)
 - ⚡ **Fun Fact:** I love turning complex ideas into clean, snappy, and responsive digital experiences!
 
 ---
@@ -111,15 +111,9 @@
 ---
 
 ### 📊 GitHub Activity & Statistics
-
-<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anoopraju31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=anoopraju31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anoop's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopraju31&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anoopraju31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
